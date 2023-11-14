@@ -1,0 +1,105 @@
+c:\users\admin\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\bin\Debug\Moradiya classes management.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\bin\Debug\Moradiya classes management.exe
+c:\users\admin\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\bin\Debug\Moradiya classes management.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\bin\Debug\SQLite.NET.dll
+c:\users\admin\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya classes management.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya classes management.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya classes management.exe
+c:\users\admin\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya classes management.pdb
+H:\Study\Visual studio windowsapplication form\Classes management system\Backup\Moradiya classes management\Moradiya classes management\bin\Debug\Moradiya classes management.exe.config
+H:\Study\Visual studio windowsapplication form\Classes management system\Backup\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya classes management.exe
+H:\Study\Visual studio windowsapplication form\Classes management system\Backup\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya classes management.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.MDIParent1.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.dashboard.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.new_student.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Information.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Information_View.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Information_Edit.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Marksheet.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.New_Employee.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Information.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_information_view.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employe_Information_Edit.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Detail_Of_Student.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Detail_Of_Student_View.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Payment.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Payment_Pay_Fee.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\bin\Debug\itextsharp.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\bin\Debug\itextsharp.pdfa.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\bin\Debug\itextsharp.xtra.dll
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\bin\Debug\itextsharp.xml
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.All_Course.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Enter_Course.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Exam_List.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Exam_List_Edit.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Add_New_Exam.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Manage_Marks.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Detail.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Detail_View.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Payment.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Payment_Pay_Salary.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Update.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Update_Change.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Salary_Update.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Salary_Update_Change.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Account.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Total_Earning.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Deleted_Student.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Marksheet_View_Result.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.MDIParent2.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Remaining_Fees.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Remaining_fees_pay_fees.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\Moradiya classes management\Moradiya classes management\obj\Debug\Moradiya_classes_management.New_Acedemic_Year.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\bin\Debug\Moradiya classes management.exe.config
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\bin\Debug\Moradiya classes management.exe
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\bin\Debug\Moradiya classes management.pdb
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\bin\Debug\itextsharp.dll
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\bin\Debug\itextsharp.pdfa.dll
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\bin\Debug\itextsharp.xtra.dll
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\bin\Debug\itextsharp.xml
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya classes management.csprojAssemblyReference.cache
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Account.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Add_New_Exam.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.All_Course.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.dashboard.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Deleted_Student.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employe_Information_Edit.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_information_view.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Information.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Detail_View.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Detail.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Payment_Pay_Salary.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Payment.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Enter_Course.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Exam_List_Edit.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Exam_List.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Detail_Of_Student_View.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Detail_Of_Student.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Payment_Pay_Fee.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Payment.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Update_Change.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Update.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Form1.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Manage_Marks.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.MDIParent1.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.MDIParent2.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.New_Acedemic_Year.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.new_student.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.New_Employee.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Properties.Resources.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Remaining_fees_pay_fees.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Remaining_Fees.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Salary_Update_Change.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Salary_Update.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Information_Edit.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Information_View.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Information.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Marksheet_View_Result.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Marksheet.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Total_Earning.resources
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya classes management.csproj.GenerateResource.cache
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya classes management.csproj.CopyComplete
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya classes management.exe
+H:\Study\1 All Project\Moradiya Classes Management\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya classes management.pdb

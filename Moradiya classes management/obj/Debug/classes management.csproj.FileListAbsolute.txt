@@ -1,0 +1,103 @@
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\bin\Debug\Moradiya classes management.exe.config
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\bin\Debug\Moradiya classes management.exe
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\bin\Debug\Moradiya classes management.pdb
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\bin\Debug\itextsharp.dll
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\bin\Debug\itextsharp.xtra.dll
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\bin\Debug\itextsharp.xml
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\classes management.csprojAssemblyReference.cache
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Account.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Add_New_Exam.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.All_Course.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.dashboard.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Deleted_Student.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employe_Information_Edit.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_information_view.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Information.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Detail_View.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Detail.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Payment_Pay_Salary.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Payment.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Enter_Course.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Exam_List_Edit.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Exam_List.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Detail_Of_Student_View.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Detail_Of_Student.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Payment_Pay_Fee.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Payment.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Update_Change.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Update.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Form1.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Manage_Marks.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.MDIParent1.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.MDIParent2.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.New_Acedemic_Year.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.new_student.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.New_Employee.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Properties.Resources.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Remaining_fees_pay_fees.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Remaining_Fees.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Salary_Update_Change.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Salary_Update.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Information_Edit.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Information_View.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Information.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Marksheet_View_Result.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Marksheet.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya_classes_management.Total_Earning.resources
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\classes management.csproj.GenerateResource.cache
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\classes management.csproj.CopyComplete
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya classes management.exe
+C:\Users\Nirav\Desktop\TMP\Moradiya classes management final\Moradiya classes management\obj\Debug\Moradiya classes management.pdb
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\bin\Debug\Moradiya classes management.exe.config
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\bin\Debug\Moradiya classes management.exe
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\bin\Debug\Moradiya classes management.pdb
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\bin\Debug\itextsharp.dll
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\bin\Debug\itextsharp.pdfa.dll
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\bin\Debug\itextsharp.xtra.dll
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\bin\Debug\itextsharp.xml
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\classes management.csproj.AssemblyReference.cache
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Account.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Add_New_Exam.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.All_Course.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.dashboard.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Deleted_Student.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employe_Information_Edit.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_information_view.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Information.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Detail_View.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Detail.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Payment_Pay_Salary.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Employee_Salary_Payment.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Enter_Course.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Exam_List_Edit.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Exam_List.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Detail_Of_Student_View.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Detail_Of_Student.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Payment_Pay_Fee.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Payment.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Update_Change.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Fee_Update.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Form1.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Manage_Marks.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.MDIParent1.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.MDIParent2.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.New_Acedemic_Year.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.new_student.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.New_Employee.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Properties.Resources.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Remaining_fees_pay_fees.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Remaining_Fees.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Salary_Update_Change.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Salary_Update.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Information_Edit.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Information_View.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Information.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Marksheet_View_Result.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Student_Marksheet.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya_classes_management.Total_Earning.resources
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\classes management.csproj.GenerateResource.cache
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\classes management.csproj.CoreCompileInputs.cache
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\classes management.csproj.CopyComplete
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya classes management.exe
+C:\Users\nirav\Documents\GitHub\Moradiya-Classes-Management\Moradiya classes management\obj\Debug\Moradiya classes management.pdb

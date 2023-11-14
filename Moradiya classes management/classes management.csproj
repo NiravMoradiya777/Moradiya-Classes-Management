@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0670724E-0ADC-46D0-AADC-565BA08E1C95}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Moradiya_classes_management</RootNamespace>
+    <AssemblyName>Moradiya classes management</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>.\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>.\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>.\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLite.NET, Version=0.21.1869.3794, Culture=neutral, PublicKeyToken=c273bd375e695f9c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Classes management system\Classes management system\bin\Debug\SQLite.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account.Designer.cs">
+      <DependentUpon>Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add New Exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add New Exam.Designer.cs">
+      <DependentUpon>Add New Exam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="All Course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="All Course.Designer.cs">
+      <DependentUpon>All Course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="connect.cs" />
+    <Compile Include="dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dashboard.Designer.cs">
+      <DependentUpon>dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="database.cs" />
+    <Compile Include="Deleted Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deleted Student.Designer.cs">
+      <DependentUpon>Deleted Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employe Information Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employe Information Edit.Designer.cs">
+      <DependentUpon>Employe Information Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee information view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee information view.Designer.cs">
+      <DependentUpon>Employee information view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee Information.Designer.cs">
+      <DependentUpon>Employee Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Salary Detail View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee Salary Detail View.Designer.cs">
+      <DependentUpon>Employee Salary Detail View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Salary Detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee Salary Detail.Designer.cs">
+      <DependentUpon>Employee Salary Detail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Salary Payment Pay Salary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee Salary Payment Pay Salary.Designer.cs">
+      <DependentUpon>Employee Salary Payment Pay Salary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Salary Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee Salary Payment.Designer.cs">
+      <DependentUpon>Employee Salary Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enter Course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Enter Course.Designer.cs">
+      <DependentUpon>Enter Course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exam List Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exam List Edit.Designer.cs">
+      <DependentUpon>Exam List Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exam List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exam List.Designer.cs">
+      <DependentUpon>Exam List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fee Detail Of Student View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fee Detail Of Student View.Designer.cs">
+      <DependentUpon>Fee Detail Of Student View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fee Detail Of Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fee Detail Of Student.Designer.cs">
+      <DependentUpon>Fee Detail Of Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fee Payment Pay Fee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fee Payment Pay Fee.Designer.cs">
+      <DependentUpon>Fee Payment Pay Fee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fee Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fee Payment.Designer.cs">
+      <DependentUpon>Fee Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fee Update Change.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fee Update Change.Designer.cs">
+      <DependentUpon>Fee Update Change.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fee Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fee Update.Designer.cs">
+      <DependentUpon>Fee Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Marks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Marks.Designer.cs">
+      <DependentUpon>Manage Marks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent2.Designer.cs">
+      <DependentUpon>MDIParent2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New Acedemic Year.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New Acedemic Year.Designer.cs">
+      <DependentUpon>New Acedemic Year.cs</DependentUpon>
+    </Compile>
+    <Compile Include="new student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new student.Designer.cs">
+      <DependentUpon>new student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New_Employee.Designer.cs">
+      <DependentUpon>New_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Remaining fees pay fees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remaining fees pay fees.Designer.cs">
+      <DependentUpon>Remaining fees pay fees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Remaining Fees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remaining Fees.Designer.cs">
+      <DependentUpon>Remaining Fees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary Update Change.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary Update Change.Designer.cs">
+      <DependentUpon>Salary Update Change.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary Update.Designer.cs">
+      <DependentUpon>Salary Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Information Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Information Edit.Designer.cs">
+      <DependentUpon>Student Information Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Information View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Information View.Designer.cs">
+      <DependentUpon>Student Information View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Information.Designer.cs">
+      <DependentUpon>Student Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Marksheet View Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Marksheet View Result.Designer.cs">
+      <DependentUpon>Student Marksheet View Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Marksheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Marksheet.Designer.cs">
+      <DependentUpon>Student_Marksheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Total Earning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Total Earning.Designer.cs">
+      <DependentUpon>Total Earning.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Account.resx">
+      <DependentUpon>Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add New Exam.resx">
+      <DependentUpon>Add New Exam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="All Course.resx">
+      <DependentUpon>All Course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dashboard.resx">
+      <DependentUpon>dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deleted Student.resx">
+      <DependentUpon>Deleted Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employe Information Edit.resx">
+      <DependentUpon>Employe Information Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee information view.resx">
+      <DependentUpon>Employee information view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Information.resx">
+      <DependentUpon>Employee Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Salary Detail View.resx">
+      <DependentUpon>Employee Salary Detail View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Salary Detail.resx">
+      <DependentUpon>Employee Salary Detail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Salary Payment Pay Salary.resx">
+      <DependentUpon>Employee Salary Payment Pay Salary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Salary Payment.resx">
+      <DependentUpon>Employee Salary Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Enter Course.resx">
+      <DependentUpon>Enter Course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exam List Edit.resx">
+      <DependentUpon>Exam List Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exam List.resx">
+      <DependentUpon>Exam List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fee Detail Of Student View.resx">
+      <DependentUpon>Fee Detail Of Student View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fee Detail Of Student.resx">
+      <DependentUpon>Fee Detail Of Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fee Payment Pay Fee.resx">
+      <DependentUpon>Fee Payment Pay Fee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fee Payment.resx">
+      <DependentUpon>Fee Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fee Update Change.resx">
+      <DependentUpon>Fee Update Change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fee Update.resx">
+      <DependentUpon>Fee Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Marks.resx">
+      <DependentUpon>Manage Marks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent2.resx">
+      <DependentUpon>MDIParent2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New Acedemic Year.resx">
+      <DependentUpon>New Acedemic Year.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new student.resx">
+      <DependentUpon>new student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_Employee.resx">
+      <DependentUpon>New_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Remaining fees pay fees.resx">
+      <DependentUpon>Remaining fees pay fees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Remaining Fees.resx">
+      <DependentUpon>Remaining Fees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary Update Change.resx">
+      <DependentUpon>Salary Update Change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary Update.resx">
+      <DependentUpon>Salary Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Information Edit.resx">
+      <DependentUpon>Student Information Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Information View.resx">
+      <DependentUpon>Student Information View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Information.resx">
+      <DependentUpon>Student Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Marksheet View Result.resx">
+      <DependentUpon>Student Marksheet View Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Marksheet.resx">
+      <DependentUpon>Student_Marksheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Total Earning.resx">
+      <DependentUpon>Total Earning.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu up.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_arrow-right-01_186409.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_arrow-down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_arrow-left.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
